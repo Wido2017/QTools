@@ -1,0 +1,4 @@
+C:\学习\大三上\c#\QTools\QTools\obj\Debug\QTools.csprojResolveAssemblyReference.cache
+C:\学习\大三上\c#\QTools\QTools\obj\Debug\QTools.Main.resources
+C:\学习\大三上\c#\QTools\QTools\obj\Debug\QTools.Properties.Resources.resources
+C:\学习\大三上\c#\QTools\QTools\obj\Debug\QTools.csproj.GenerateResource.Cache

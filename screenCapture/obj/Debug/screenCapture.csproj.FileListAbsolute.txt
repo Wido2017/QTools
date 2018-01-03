@@ -1,0 +1,8 @@
+C:\学习\大三上\c#\QTools\screenCapture\bin\Debug\screenCapture.exe.config
+C:\学习\大三上\c#\QTools\screenCapture\bin\Debug\screenCapture.exe
+C:\学习\大三上\c#\QTools\screenCapture\bin\Debug\screenCapture.pdb
+C:\学习\大三上\c#\QTools\screenCapture\obj\Debug\screenCapture.CaptureForm.resources
+C:\学习\大三上\c#\QTools\screenCapture\obj\Debug\screenCapture.Properties.Resources.resources
+C:\学习\大三上\c#\QTools\screenCapture\obj\Debug\screenCapture.csproj.GenerateResource.Cache
+C:\学习\大三上\c#\QTools\screenCapture\obj\Debug\screenCapture.exe
+C:\学习\大三上\c#\QTools\screenCapture\obj\Debug\screenCapture.pdb
