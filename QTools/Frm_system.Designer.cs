@@ -41,8 +41,9 @@
             this.tvItem.ForeColor = System.Drawing.Color.White;
             this.tvItem.Location = new System.Drawing.Point(0, 0);
             this.tvItem.Name = "tvItem";
-            this.tvItem.Size = new System.Drawing.Size(172, 903);
+            this.tvItem.Size = new System.Drawing.Size(281, 903);
             this.tvItem.TabIndex = 0;
+            this.tvItem.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvItem_AfterSelect);
             // 
             // lvInfo
             // 
@@ -53,9 +54,9 @@
             this.lvInfo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lvInfo.ForeColor = System.Drawing.Color.White;
             this.lvInfo.GridLines = true;
-            this.lvInfo.Location = new System.Drawing.Point(172, 0);
+            this.lvInfo.Location = new System.Drawing.Point(281, 0);
             this.lvInfo.Name = "lvInfo";
-            this.lvInfo.Size = new System.Drawing.Size(927, 903);
+            this.lvInfo.Size = new System.Drawing.Size(818, 903);
             this.lvInfo.TabIndex = 1;
             this.lvInfo.UseCompatibleStateImageBehavior = false;
             this.lvInfo.View = System.Windows.Forms.View.Details;
@@ -78,6 +79,7 @@
             this.ClientSize = new System.Drawing.Size(1099, 903);
             this.Controls.Add(this.lvInfo);
             this.Controls.Add(this.tvItem);
+            this.DoubleBuffered = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Frm_system";

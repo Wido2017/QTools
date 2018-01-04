@@ -98,6 +98,7 @@ namespace QManager
             {
                 this.Show();
                 this.WindowState = FormWindowState.Normal;
+                this.ShowInTaskbar = true;
             }
         }
 

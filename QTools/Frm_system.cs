@@ -169,5 +169,13 @@ namespace QManager
             #endregion
             GetInfo("");//默认获得Windows信息的相关信息
         }
+
+        private void tvItem_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+            string strText = tvItem.SelectedNode.Text;
+            this.Text = "QTools电脑助手--" + strText;
+            lvInfo.Items.Clear();
+            GetInfo(strText);
+        }
     }
 }
