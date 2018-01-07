@@ -25,3 +25,17 @@ C:\学习\大三上\c#\QTools\windowHelper\obj\Debug\windowHelper.exe
 C:\学习\大三上\c#\QTools\windowHelper\obj\Debug\windowHelper.pdb
 C:\学习\大三上\c#\QTools\windowHelper\obj\Debug\windowHelper.WeatherDescription.resources
 C:\学习\大三上\c#\QTools\windowHelper\obj\Debug\windowHelper.WindowHelper.resources
+F:\vsgitlib\QTools\windowHelper\bin\Debug\windowHelper.exe.config
+F:\vsgitlib\QTools\windowHelper\bin\Debug\windowHelper.exe
+F:\vsgitlib\QTools\windowHelper\bin\Debug\windowHelper.pdb
+F:\vsgitlib\QTools\windowHelper\bin\Debug\screenCapture.exe
+F:\vsgitlib\QTools\windowHelper\bin\Debug\search.exe
+F:\vsgitlib\QTools\windowHelper\bin\Debug\screenCapture.pdb
+F:\vsgitlib\QTools\windowHelper\bin\Debug\search.pdb
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.csprojResolveAssemblyReference.cache
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.Properties.Resources.resources
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.WeatherDescription.resources
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.WindowHelper.resources
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.csproj.GenerateResource.Cache
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.exe
+F:\vsgitlib\QTools\windowHelper\obj\Debug\windowHelper.pdb

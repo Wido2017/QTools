@@ -178,6 +178,10 @@
       <Project>{9af64ed1-80eb-4cef-bf07-f933973cc2ea}</Project>
       <Name>screenCapture</Name>
     </ProjectReference>
+    <ProjectReference Include="..\search\search.csproj">
+      <Project>{ff3c540e-c335-4e49-96ad-cc872fe400e1}</Project>
+      <Name>search</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

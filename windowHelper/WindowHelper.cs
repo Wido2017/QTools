@@ -1,17 +1,11 @@
 ﻿using windowHelper.Model;
 using screenCapture;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 using System.Windows.Forms;
 using System.Net.NetworkInformation;
@@ -22,6 +16,7 @@ namespace windowHelper
     {
         private WeatherDescription wd;
         private CaptureForm cf;
+        private search.search sr;
         private int x;
         private int y;
         string[] s = new string[23];//声明string数组存放返回结果 
@@ -46,6 +41,7 @@ namespace windowHelper
             this.ShowInTaskbar = false;
             wd = new WeatherDescription();
             cf = new CaptureForm();
+            sr = new search.search();
             x = System.Windows.Forms.SystemInformation.WorkingArea.Width - this.Size.Width;
             y = System.Windows.Forms.SystemInformation.WorkingArea.Height / 10;
             this.StartPosition = FormStartPosition.Manual; //窗体的位置由Location属性决定

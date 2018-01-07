@@ -16,3 +16,48 @@ C:\学习\大三上\c#\QTools\QTools\obj\Debug\QManager.Properties.Resources.res
 C:\学习\大三上\c#\QTools\QTools\obj\Debug\QManager.exe
 C:\学习\大三上\c#\QTools\QTools\obj\Debug\QManager.pdb
 C:\学习\大三上\c#\QTools\QTools\obj\Debug\QManager.Frm_system.resources
+F:\vsgitlib\QTools\QTools\bin\Debug\QManager.exe.config
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.exe
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.pdb
+F:\vsgitlib\QTools\QTools\bin\Debug\QManager.exe
+F:\vsgitlib\QTools\QTools\bin\Debug\QManager.pdb
+F:\vsgitlib\QTools\QTools\bin\Debug\windowHelper.exe
+F:\vsgitlib\QTools\QTools\bin\Debug\screenCapture.exe
+F:\vsgitlib\QTools\QTools\bin\Debug\search.exe
+F:\vsgitlib\QTools\QTools\bin\Debug\IrisSkin4.dll
+F:\vsgitlib\QTools\QTools\bin\Debug\Newtonsoft.Json.dll
+F:\vsgitlib\QTools\QTools\bin\Debug\windowHelper.pdb
+F:\vsgitlib\QTools\QTools\bin\Debug\screenCapture.pdb
+F:\vsgitlib\QTools\QTools\bin\Debug\search.pdb
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.csprojResolveAssemblyReference.cache
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.Frm_system.resources
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.Main.resources
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.Properties.Resources.resources
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.csproj.GenerateResource.Cache
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.Frm_SysTool.resources
+F:\vsgitlib\QTools\QTools\obj\Debug\QManager.frm_Close.resources
+G:\visual studio code\C#\QTools\QTools\bin\Debug\QManager.exe.config
+G:\visual studio code\C#\QTools\QTools\bin\Debug\QManager.exe
+G:\visual studio code\C#\QTools\QTools\bin\Debug\QManager.pdb
+G:\visual studio code\C#\QTools\QTools\bin\Debug\windowHelper.exe
+G:\visual studio code\C#\QTools\QTools\bin\Debug\screenCapture.exe
+G:\visual studio code\C#\QTools\QTools\bin\Debug\search.exe
+G:\visual studio code\C#\QTools\QTools\bin\Debug\IrisSkin4.dll
+G:\visual studio code\C#\QTools\QTools\bin\Debug\Newtonsoft.Json.dll
+G:\visual studio code\C#\QTools\QTools\bin\Debug\windowHelper.pdb
+G:\visual studio code\C#\QTools\QTools\bin\Debug\windowHelper.exe.config
+G:\visual studio code\C#\QTools\QTools\bin\Debug\screenCapture.pdb
+G:\visual studio code\C#\QTools\QTools\bin\Debug\screenCapture.exe.config
+G:\visual studio code\C#\QTools\QTools\bin\Debug\search.pdb
+G:\visual studio code\C#\QTools\QTools\bin\Debug\search.exe.config
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.csprojResolveAssemblyReference.cache
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.frm_Close.resources
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Frm_system.resources
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Frm_SysTool.resources
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Main.resources
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Properties.Resources.resources
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.csproj.GenerateResource.Cache
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.csproj.CoreCompileInputs.cache
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.exe
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.pdb
+G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Frm_Optimize.resources
