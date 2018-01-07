@@ -42,6 +42,7 @@ namespace windowHelper
             this.weatherButten = new System.Windows.Forms.Button();
             this.weatherLabel = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // skinEngine1
@@ -151,12 +152,23 @@ namespace windowHelper
             this.timer2.Interval = 600000;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(28, 24);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(136, 21);
+            this.label1.TabIndex = 6;
+            this.label1.Text = "时间天气助手";
+            // 
             // WindowHelper
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(360, 285);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.weatherLabel);
             this.Controls.Add(this.weatherButten);
             this.Controls.Add(this.btn_close);
@@ -184,5 +196,6 @@ namespace windowHelper
         private Button weatherButten;
         private Label weatherLabel;
         private Timer timer2;
+        private Label label1;
     }
 }

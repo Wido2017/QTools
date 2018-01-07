@@ -156,7 +156,7 @@ namespace windowHelper
 
         private void WindowHelper_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private static byte[] GetURLContents(string url)
@@ -308,5 +308,6 @@ namespace windowHelper
                 wd.cityLabel.Text = "暂无天气信息";
             }
         }
+
     }
 }
