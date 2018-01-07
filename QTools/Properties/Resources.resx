@@ -256,4 +256,46 @@
   <data name="gb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="发送到菜单2_07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\发送到菜单2_07.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="发送到菜单3_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\发送到菜单3_10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="发送到菜单56_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\发送到菜单56_10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="取消" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\取消.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="开始挂机" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\开始挂机.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="挂机功能整体背景" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\挂机功能整体背景.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统优化_07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统优化_07.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统优化_09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统优化_09.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统优化_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统优化_11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统优化_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统优化_13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统优化背景" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统优化背景.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="系统检测_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\系统检测_03.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="解除锁定" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\解除锁定.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="解除锁定背景" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\解除锁定背景.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

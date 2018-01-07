@@ -85,6 +85,9 @@
     <EmbeddedResource Include="frm_Close.resx">
       <DependentUpon>frm_Close.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Optimize.resx">
+      <DependentUpon>Frm_Optimize.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_system.resx">
       <DependentUpon>Frm_system.cs</DependentUpon>
     </EmbeddedResource>
@@ -254,6 +257,48 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\gb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\发送到菜单2_07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\发送到菜单3_10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\发送到菜单56_10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\挂机功能整体背景.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\解除锁定.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\解除锁定背景.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\开始挂机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\取消.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统检测_03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统优化_07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统优化_09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统优化_11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统优化_13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\系统优化背景.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
