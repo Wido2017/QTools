@@ -241,6 +241,10 @@
     <None Include="images\youhua.png" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\sticker\Sticker.csproj">
+      <Project>{75057245-2104-4d98-b777-e6e4b6d81283}</Project>
+      <Name>Sticker</Name>
+    </ProjectReference>
     <ProjectReference Include="..\windowHelper\windowHelper.csproj">
       <Project>{29ac1f71-700f-4ca1-85ae-2ac6a195fbf7}</Project>
       <Name>windowHelper</Name>

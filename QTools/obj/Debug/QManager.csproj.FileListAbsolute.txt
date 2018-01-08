@@ -61,3 +61,6 @@ G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.csproj.CoreCompileInpu
 G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.exe
 G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.pdb
 G:\visual studio code\C#\QTools\QTools\obj\Debug\QManager.Frm_Optimize.resources
+G:\visual studio code\C#\QTools\QTools\bin\Debug\WindowsFormsApp1.exe
+G:\visual studio code\C#\QTools\QTools\bin\Debug\WindowsFormsApp1.pdb
+G:\visual studio code\C#\QTools\QTools\bin\Debug\WindowsFormsApp1.exe.config

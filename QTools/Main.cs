@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using windowHelper;
+using WindowsFormsApp1;
 
 namespace QManager
 {
@@ -18,6 +19,9 @@ namespace QManager
             WindowHelper wh = new WindowHelper();
             InitializeComponent();
             wh.Show();
+            stkrDaemon Daemon = new stkrDaemon();
+            Daemon.Show();
+            
         }
 
         private void Main_Load(object sender, EventArgs e)

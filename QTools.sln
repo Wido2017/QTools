@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windowHelper", "windowHelper\windowHelper.csproj", "{29AC1F71-700F-4CA1-85AE-2AC6A195FBF7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screenCapture", "screenCapture\screenCapture.csproj", "{9AF64ED1-80EB-4CEF-BF07-F933973CC2EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "search", "search\search.csproj", "{FF3C540E-C335-4E49-96AD-CC872FE400E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticker", "sticker\Sticker.csproj", "{75057245-2104-4D98-B777-E6E4B6D81283}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{FF3C540E-C335-4E49-96AD-CC872FE400E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3C540E-C335-4E49-96AD-CC872FE400E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3C540E-C335-4E49-96AD-CC872FE400E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75057245-2104-4D98-B777-E6E4B6D81283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75057245-2104-4D98-B777-E6E4B6D81283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75057245-2104-4D98-B777-E6E4B6D81283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75057245-2104-4D98-B777-E6E4B6D81283}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7897EADE-287F-4E3A-B4D8-A18685C2A6BE}
 	EndGlobalSection
 EndGlobal
